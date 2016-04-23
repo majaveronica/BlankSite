@@ -1,0 +1,2 @@
+# BlankSite
+Blank site example
